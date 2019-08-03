@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffc0df69.chunk.css",
+    "main.js": "/static/js/main.b900a6af.chunk.js",
+    "main.js.map": "/static/js/main.b900a6af.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.609907aa.chunk.js": "/static/js/2.609907aa.chunk.js",
+    "static/js/2.609907aa.chunk.js.map": "/static/js/2.609907aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8e5ae575299b59f1b223e8f406f4a771.js": "/precache-manifest.8e5ae575299b59f1b223e8f406f4a771.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ffc0df69.chunk.css.map": "/static/css/main.ffc0df69.chunk.css.map",
+    "static/media/Navbar.css": "/static/media/Banner.13191139.png",
+    "static/media/behance.svg": "/static/media/behance.90262f92.svg",
+    "static/media/Main.css": "/static/media/galaxybackground.ab51426f.jpg",
+    "static/media/github.svg": "/static/media/github.1349538f.svg",
+    "static/media/guido-profile.png": "/static/media/guido-profile.80876ac6.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.29751e48.svg"
+  }
+}

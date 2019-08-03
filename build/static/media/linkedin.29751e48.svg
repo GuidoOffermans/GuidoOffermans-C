@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.641" height="62.641" viewBox="0 0 62.641 62.641">
+  <defs>
+    <filter id="Path_202" x="0" y="0" width="62.641" height="62.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="linkedin-button" transform="translate(9 6)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_202)">
+          <path id="Path_202-2" data-name="Path 202" d="M22.32,0a22.32,22.32,0,1,0,22.32,22.32A22.321,22.321,0,0,0,22.32,0ZM16.74,33.132H11.16V13.6h5.58ZM14.123,12.4A2.617,2.617,0,1,1,16.74,9.787,2.615,2.615,0,0,1,14.123,12.4ZM36.271,33.132H30.69V21.056c0-1.415-.4-2.4-2.143-2.4a3.347,3.347,0,0,0-3.437,2.4V33.132H19.53V13.6h5.58v1.867A9.333,9.333,0,0,1,30.69,13.6c1.808,0,5.58,1.083,5.58,7.622V33.132Z" transform="translate(9 6)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
